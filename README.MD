@@ -24,27 +24,35 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie 10 headlines para nomes concisos de artigos sobre o assunto Python - Manipulação e Análise de Dados com Pandas                                                                                                                                                                                                 |
+| conteúdo | Comporte-se como um escritor de artigos tech focados em visualização e análise de dados em python e screva um artigo  sobre Manipulação e Análise de Dados com Pandas seguindo as regras abaixo:
+
+{Regras}
+> No maximo 5 linhas por bloco de explicação
+> explique de maneira informal como se eu fosse uma criança de 10 anos
+> os blocos que serão criados estão abaixo:
+- O que é o Pandas
+- Principais funções
+- Exemplos de código
+- coloque 3 hashtags que façam sentido
+> termine com:
+"
+Ilustração: Copilot
+Conteúdo gerado por: ChatGPT e revisões humanas
+" |
 
 
-Lexica.art：
+Prompt no Copilot：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
+- Crie uma imagem para um artigo técnico sobre o tema Manipulação e Análise de Dados com Pandas do nicho programação subnicho python no estilo minimalista
 
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens criadas pelo Copilot e prints de código
 
 ## 📚 Materiais
 
 - prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
