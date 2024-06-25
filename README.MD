@@ -23,23 +23,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | crie 10 headlines para nomes concisos de artigos sobre o assunto Python - Manipulação e Análise de Dados com Pandas                                                                                                                                                                                                 |
-| conteúdo | Comporte-se como um escritor de artigos tech focados em visualização e análise de dados em python e screva um artigo  sobre Manipulação e Análise de Dados com Pandas seguindo as regras abaixo:
-
-{Regras}
-> No maximo 5 linhas por bloco de explicação
-> explique de maneira informal como se eu fosse uma criança de 10 anos
-> os blocos que serão criados estão abaixo:
-- O que é o Pandas
-- Principais funções
-- Exemplos de código
-- coloque 3 hashtags que façam sentido
-> termine com:
-"
-Ilustração: Copilot
-Conteúdo gerado por: ChatGPT e revisões humanas
-" |
+|:--------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  título  | crie 10 headlines para nomes concisos de artigos sobre o assunto Python - Manipulação e Análise de Dados com Pandas                                                                                                                                                             |
+| conteúdo | Comporte-se como um escritor de artigos tech focados em visualização e análise de dados em python e escreva um artigo sobre Manipulação e Análise de Dados com Pandas seguindo as regras abaixo:<br><br>{Regras}<br><br>> No máximo 5 linhas por bloco de explicação<br>> explique de maneira informal como se eu fosse uma criança de 10 anos<br>> os blocos que serão criados estão abaixo:<br>- O que é o Pandas<br>- Principais funções<br>- Exemplos de código<br>- coloque 3 hashtags que façam sentido<br><br>> termine com:<br><br>"Ilustração: Copilot<br>Conteúdo gerado por: ChatGPT e revisões humanas" |
 
 
 Prompt no Copilot：
